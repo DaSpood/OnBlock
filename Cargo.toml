@@ -1,0 +1,8 @@
+[package]
+name = "on_block"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"

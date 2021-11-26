@@ -1,0 +1,15 @@
+# IntelliJ files
+.idea/
+
+# Build files
+debug/
+target/
+
+# Executable, Cargo.lock ignored
+Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# Compiler files
+*.pdb
